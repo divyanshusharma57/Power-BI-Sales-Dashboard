@@ -1,99 +1,102 @@
-# 📊 Power BI Sales Dashboard
+# 📊 Mobile Sales Analysis Dashboard | Power BI
 
-## 📌 Project Overview
+An interactive Power BI dashboard designed to analyze mobile phone sales, transaction patterns, payment methods, city-wise performance, and monthly sales trends.
 
-This project focuses on analyzing sales data using **Microsoft Power BI** to transform raw data into meaningful business insights through interactive visualizations and dashboards.
+## 📸 Dashboard Preview
 
-The dashboard provides an overview of sales performance across different cities, payment methods, and monthly trends. It helps users explore the data, identify patterns, and understand business performance using interactive filters and slicers.
+![Mobile Sales Analysis Dashboard](Dashboard.png)
 
-## 🎯 Project Objectives
+## 🎯 Project Overview
 
-- Analyze sales performance across different cities.
-- Understand sales distribution by payment method.
-- Track monthly sales trends and patterns.
-- Build an interactive dashboard for data exploration.
-- Present business data through clear and meaningful visualizations.
+This project uses Microsoft Power BI to explore mobile sales data and present key business metrics through interactive charts, maps, tables, and slicers.
+
+The dashboard helps users understand sales performance across cities, compare mobile models, analyze payment methods, and explore monthly trends.
+
+## 📌 Key Performance Indicators (KPIs)
+
+- **Total Sales:** 17.84M
+- **Total Quantity Sold:** 468
+- **Average Sales:** 38.66K
+- **Transactions:** 99 (as displayed in the dashboard's transaction count card)
+
+*Note: KPI values reflect the current screenshot and may change when filters are applied.*
 
 ## 📈 Dashboard Features
 
-### 🏙️ City-Wise Sales Analysis
-Visualizes sales performance across cities to help compare geographical sales patterns.
+### 1. City-Wise Sales Analysis
+- Geographic visualization of sales across Indian cities.
+- Helps compare sales distribution across locations.
 
-### 💳 Payment Method Analysis
-Analyzes sales distribution across different payment methods to understand customer payment preferences.
+### 2. Payment Method Analysis
+- Visualizes transaction distribution by UPI, Credit Card, Debit Card, and Cash.
+- Helps explore customer payment preferences.
 
-### 📅 Monthly Sales Trends
-Displays monthly sales patterns to help explore changes in sales performance over time.
+### 3. Monthly Trend Analysis
+- Displays monthly units sold and sales patterns.
+- Supports month-wise performance comparison.
 
-### 🎛️ Interactive Filters & Slicers
-Allows users to filter and explore dashboard data dynamically for a more interactive analytical experience.
+### 4. Mobile Model Comparison
+- Compares sales across mobile models, including OnePlus Nord, Samsung Galaxy Note 20, and OnePlus 8T.
+- Helps explore product-level performance.
+
+### 5. Interactive Filters
+- Year selection
+- City selection
+- Month selection
+
+These filters allow users to explore different segments of the sales data.
 
 ## 🛠️ Tools & Technologies
 
-- **Microsoft Power BI** — Dashboard development and visualization
-- **Data Analysis** — Exploring sales data and identifying patterns
-- **Data Visualization** — Presenting information through charts and graphs
-- **Power Query** — Data transformation, if used in the project
-- **DAX** — Calculated measures, if used in the project
+- Microsoft Power BI
+- Data Visualization
+- Business Intelligence
+- Interactive Dashboards
+- Data Analysis
 
-## 💡 Business Value
+## 💼 Business Value
 
-This dashboard demonstrates how data visualization can support business analysis by helping users:
+This dashboard demonstrates how interactive reporting can help businesses:
 
-- Compare sales performance across cities.
+- Monitor sales performance.
+- Compare city-wise results.
 - Understand payment method distribution.
-- Monitor monthly sales patterns.
-- Explore data interactively for better decision-making.
-
-*Note: Specific business conclusions depend on the actual values and patterns in the dataset.*
+- Track monthly sales trends.
+- Compare mobile model performance.
 
 ## 📂 Project Files
 
 | File | Description |
 |---|---|
-| `Power BI Project.pbix` | Power BI dashboard project file |
-| `Dashboard.png` | Dashboard preview image (if added) |
+| `Power BI Project.pbix` | Interactive Power BI report |
+| `Dashboard.png` | Dashboard preview |
 | `README.md` | Project documentation |
 
-## 🚀 How to Use This Project
+## 🚀 How to Use
 
 1. Download or clone this repository.
 2. Install Microsoft Power BI Desktop.
-3. Open the `Power BI Project.pbix` file in Power BI Desktop.
-4. Explore the dashboard visuals, filters, and slicers.
-5. If prompted, configure the data source according to your local dataset.
-
-## 📷 Dashboard Preview
-
-Add a screenshot of your dashboard to this repository and name it `Dashboard.png`.
-
-Once uploaded, display it here by adding the following Markdown:
-
-```markdown
-![Power BI Sales Dashboard](Dashboard.png)
-```
+3. Open `Power BI Project.pbix`.
+4. Configure the data source if Power BI prompts you.
+5. Use the dashboard slicers to explore the report.
 
 ## 👨‍💻 Skills Demonstrated
 
 - Data Analysis
 - Data Visualization
-- Dashboard Development
 - Business Intelligence
+- Dashboard Design
 - Interactive Reporting
 - Microsoft Power BI
 
 ## 👤 About Me
 
-I am a B.Tech Information Technology student interested in Data Analytics and Business Intelligence. I am continuously developing my skills in SQL, Python, Excel, and Power BI by building practical projects.
-
-This project is part of my journey toward becoming a Data Analyst.
+I am a B.Tech Information Technology student interested in Data Analytics and Business Intelligence. I am building practical projects to strengthen my skills and develop a professional Data Analyst portfolio.
 
 ## ⭐ Feedback
 
-Feedback and suggestions are welcome. Feel free to explore the project and share ideas for improvement.
+Suggestions and feedback are welcome!
 
----
-
-**If you find this project useful, consider giving the repository a ⭐!**
+If you find this project useful, consider giving this repository a star.
 
 #PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization
